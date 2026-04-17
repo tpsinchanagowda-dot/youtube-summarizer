@@ -1,4 +1,4 @@
-# YouTube Summarizer
+# 🎥 YouTube Video Summarizer & Notes Generator
 
 > Paste any YouTube URL → Get instant structured notes, key points with timestamps, and PDF/Markdown export. Powered by OpenAI GPT + Whisper.
 
@@ -193,3 +193,5 @@ open http://localhost:8000/docs
 ## License
 
 MIT — free to use, modify, and distribute.
+<img width="1904" height="845" alt="image" src="https://github.com/user-attachments/assets/642d4deb-c143-4385-87c1-945161c1178f" />
+
